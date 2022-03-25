@@ -10,5 +10,5 @@
 
 [Formula 1 Races | Week 37](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-09-07/readme.md)
 
-<img src="https://github.com/CowFlu87/DataViz/blob/main/Tidytuesday_20210316/steam_2103.png" width="700">
+<img src="https://github.com/CowFlu87/DataViz/blob/main/Tidytuesday_20210907/Formula1_20210907.png" width="700">
 
